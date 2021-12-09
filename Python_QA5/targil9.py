@@ -47,3 +47,4 @@ while 100>num>9:
         print("Luck")
         num = int(input("enter number: "))
     num = int(input("enter number: "))
+
